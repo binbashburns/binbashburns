@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @binbashburns
+- 👀 I’m interested in cyber, and cloud
+- 🌱 I’m currently learning SecOps/DevOps methodologies and tools, including Agile, Terraform, CI/CD, Confluence, Jira, Ansible, GitHub, Bash and Python
+- 💞️ I’m looking to collaborate on any learning projects you can throw at me
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/matt-burns-644079163/

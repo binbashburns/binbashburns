@@ -2,4 +2,4 @@
 - 👀 I’m interested in cybersecurity, and cloud
 - 🌱 I’m currently learning DevSecOps/DevOps methodologies and tools, including Azure, AWS, Terraform, CI/CD, Ansible, GitHub, Containers, Bash and Python
 - 💞️ I’m looking to collaborate on any learning projects you can throw at me
-- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/matt-burns-644079163/
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/binbashburns

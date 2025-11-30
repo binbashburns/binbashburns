@@ -22,20 +22,15 @@ My homelab includes a Raspberry Pi Kubernetes cluster, Gitea, GitHub Actions run
 
 ## Technical Skills
 
-### Cloud and Infrastructure
-AWS, Azure, Kubernetes, Helm, Docker
+**Cloud and Infrastructure**: AWS, Azure, Kubernetes, Helm, Docker
 
-### Automation and IaC
-Terraform, Ansible, GitOps, GitHub Actions
+**Automation and IaC**: Terraform, Ansible, GitOps, GitHub Actions
 
-### Security and Networking
-Nmap, Wireshark, tcpdump, iptables, nftables, Nessus, Security Onion
+**Security and Networking**: Nmap, Wireshark, tcpdump, iptables, nftables, Nessus, Security Onion
 
-### ICS/OT
-Modbus/TCP, PLC programming (Arduino Opta, Click PLC), ICS network analysis
+**ICS/OT**:: Modbus/TCP, PLC programming (Arduino Opta, Click PLC), ICS network analysis
 
-### Programming
-C#, Python, Bash, PowerShell, HCL, YAML, JSON
+**Programming**: C#, Python, Bash, PowerShell, HCL, YAML, JSON
 
 ## Career Snapshot
 

@@ -1,6 +1,5 @@
 # Matt Burns
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-binbashburns-darkorchid?style=flat)](https://linkedin.com/in/binbashburns)
 [![Website](https://img.shields.io/badge/Website-binbashburns.com-mediumslateblue?style=flat)](https://binbashburns.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mediumorchid?style=flat)](https://github.com/binbashburns)
 

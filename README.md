@@ -51,7 +51,25 @@ Help organizations prepare for FedRAMP and cloud compliance through architecture
 - Mentoring new professionals, refining my show-and-tell while simultaneously conquering my fear of public speaking
 - Making better, more secure guardrails in CI
 - Building C# tooling for penetration testing workflows and reporting  
-- Discovering where I can contribute to open source software outside of my own GitHub 
+- Discovering where I can contribute to open source software outside of my own GitHub
+
+## Projects
+
+### SoldierSave
+
+[![Live site](https://img.shields.io/badge/site-soldiersave.com-blue)](https://soldiersave.com/) [![GitHub](https://img.shields.io/badge/code-binbashburns%2Fsoldiersave.com-orange)](https://github.com/binbashburns/soldiersave.com)
+
+- Blazor WebAssembly site hosted via GitHub Pages, backed by a structured `benefits.json` dataset.
+- Provides searchable, tag-filtered benefits, discounts, and resources for service members, veterans, and families.
+- Community contributions flow through GitHub Issues and auto-generated pull requests, plus scheduled link checking via GitHub Actions.
+
+### BadgeBox
+
+[![Live site](https://img.shields.io/badge/site-badge--box.com-blue)](https://badge-box.com) [![GitHub](https://img.shields.io/badge/code-binbashburns%2Fbadgebox--resume-orange)](https://github.com/binbashburns/badgebox-resume)
+
+- Resume template that pulls live **Credly** certifications via a .NET 9 minimal API and CLI, then renders them into a Jekyll site.
+- Ships with a GitHub Actions workflow that builds the API/CLI, generates normalized badge JSON, and publishes the site to GitHub Pages or a custom domain.
+- Designed to be forked and customized so others can quickly stand up their own resume + badges site.
 
 ## Stats and Activity
 

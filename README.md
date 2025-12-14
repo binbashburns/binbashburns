@@ -56,10 +56,6 @@ Help organizations prepare for FedRAMP and cloud compliance through architecture
 ## Stats and Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binbashburns&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=binbashburns&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 </div>
 

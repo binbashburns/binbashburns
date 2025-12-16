@@ -3,15 +3,15 @@
 [![Website](https://img.shields.io/badge/Website-binbashburns.com-mediumslateblue?style=flat)](https://binbashburns.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mediumorchid?style=flat)](https://github.com/binbashburns)
 
-I’m a DevSecOps engineer and cloud security practitioner who builds secure, automated infrastructure across AWS, Azure, and Kubernetes environments. Most of my work sits in-between cloud-native engineering and cybersecurity, where I focus on identity, hardened CI/CD pipelines, and GitOps-driven deployments. I work with Terraform, Helm, GitHub Actions, and containerized workloads to create systems that are consistent, scalable, and observable. Outside of cloud, I spend time in the ICS/OT world building hands-on PLC labs, analyzing Modbus/TCP traffic, and experimenting with OT. 
+I’m a DevSecOps engineer and cloud security practitioner who builds secure, automated infrastructure across AWS, Azure, and Kubernetes environments. Most of my work lives at the boundary between cloud engineering and security, where I focus on identity, hardened CI/CD pipelines, and GitOps-driven deployments. I enjoy building systems that others can use, learn from, and extend, especially when they help people feel more capable and less intimidated by complex tooling.
 
 ## What I Do
 
 ### DevSecOps / Cloud Engineering
-I design and secure cloud-native infrastructure using Kubernetes, Helm, Terraform, GitHub Actions, and AWS/Azure services. Most of my work centers on identity modernization, GitOps workflows, and hardening CI/CD pipelines.
+I design and secure cloud-native infrastructure using Kubernetes, Helm, Terraform, GitHub Actions, and AWS/Azure services. My work centers on identity modernization, GitOps workflows, and embedding security controls into existing SDLC pipelines.
 
 ### ICS/OT Cybersecurity
-I build and test industrial control system environments using PLCs, Arduino Opta hardware, Modbus/TCP, and custom HMI tooling. My projects blend cloud-native monitoring with OT network defense, aiming to make industrial environments more transparent and testable.
+I build and test industrial control system environments using PLCs, Arduino Opta hardware, Modbus/TCP, and custom HMI tooling. My projects aim to make OT environments more transparent, testable, and defensible.
 
 ### Software and Automation Projects
 I am currently a student at CodeYou, learning C#. I'm developing several C# tools that support penetration testing workflows, reporting, and time management as part of my software engineering program.
@@ -47,11 +47,15 @@ Help organizations prepare for FedRAMP and cloud compliance through architecture
 
 ## Current Focus
 
-- Scalable DevSecOps patterns for cloud-native systems
-- Mentoring new professionals, refining my show-and-tell while simultaneously conquering my fear of public speaking
-- Making better, more secure guardrails in CI
-- Building C# tooling for penetration testing workflows and reporting  
-- Discovering where I can contribute to open source software outside of my own GitHub
+- Practical DevSecOps patterns for cloud-native systems
+- Mentoring and knowledge-sharing through hands-on, show-and-tell learning
+- Building safer guardrails into CI/CD
+- Developing small, maintainable C# tools that solve real problems
+- Exploring where I can contribute to open source beyond my own repositories
+
+## Volunteer and Community Work
+- **Pet Cancer Foundation**: Information security and data governance support for a nonprofit focused on animal welfare.
+- **CodeYou – Intro to Cyber**: Mentor for the introductory cybersecurity cohort, supporting hands-on learning and career development.
 
 ## Projects
 

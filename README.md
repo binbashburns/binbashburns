@@ -1,8 +1,4 @@
-# Matt Burns
-
-[![Website](https://img.shields.io/badge/Website-binbashburns.com-mediumslateblue?style=flat)](https://binbashburns.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mediumorchid?style=flat)](https://github.com/binbashburns)
-
+# Matt B
 I’m a DevSecOps engineer and cloud security practitioner who builds secure, automated infrastructure across AWS, Azure, and Kubernetes environments. Most of my work lives at the boundary between cloud engineering and security, where I focus on identity, hardened CI/CD pipelines, and GitOps-driven deployments. I enjoy building systems that others can use, learn from, and extend, especially when they help people feel more capable and less intimidated by complex tooling.
 
 ## What I Do

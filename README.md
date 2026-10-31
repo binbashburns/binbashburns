@@ -1,82 +1,30 @@
-# Matt B
-I’m a DevSecOps engineer and cloud security practitioner who builds secure, automated infrastructure across AWS, Azure, and Kubernetes environments. Most of my work lives at the boundary between cloud engineering and security, where I focus on identity, hardened CI/CD pipelines, and GitOps-driven deployments. I enjoy building systems that others can use, learn from, and extend, especially when they help people feel more capable and less intimidated by complex tooling.
+# Matt Burns
 
-## What I Do
+I want to lead technology for an organization that saves animals. I have spent fifteen years securing systems for government and healthcare organizations: governance and audits, cloud infrastructure, the pipelines that ship software, identity, and the incident calls nobody wants. I know how to do tech, but what I care most about is animals, and since 2025 I have been moving my working life toward the shelters, rescues and sanctuaries that save them.
 
-### DevSecOps / Cloud Engineering
-I design and secure cloud-native infrastructure using Kubernetes, Helm, Terraform, GitHub Actions, and AWS/Azure services. My work centers on identity modernization, GitOps workflows, and embedding security controls into existing SDLC pipelines.
+**[binbashburns.com](https://binbashburns.com)** is where that work lives: a free information hub for the people who handle technology at shelters and rescues. Plain-language steps, guides written as walkthroughs, a map of what already exists with free options first, and a standing offer of a second pair of eyes. No sales call, no vendor behind it.
 
-### ICS/OT Cybersecurity
-I build and test industrial control system environments using PLCs, Arduino Opta hardware, Modbus/TCP, and custom HMI tooling. My projects aim to make OT environments more transparent, testable, and defensible.
+## In the sector so far
 
-### Software and Automation Projects
-I am currently a student at CodeYou, learning C#. I'm developing several C# tools that support penetration testing workflows, reporting, and time management as part of my software engineering program.
+- **2025-06 to 2026-01.** Volunteer information security and data governance for a small nonprofit working on cancer care for pets: a lightweight governance framework, first policies, vendor checks, and rules for keeping less data.
+- **2025-12 to 2026-03.** Contributed per-dose medication scheduling and a time-of-day-aware Medical Book to [Animal Shelter Manager](https://github.com/sheltermanager/asm3), the open-source system many shelters run: [pull request 1970](https://github.com/sheltermanager/asm3/pull/1970), merged 2026-03-02.
+- **2026-10 to 2026-12.** Finding Success in Animal Services, the Best Friends and Southern Utah University course. The Dog and Cat Lifesaving Fundamentals courses follow in 2027.
+- I mentor career-changers in security at a Louisville nonprofit, which is where I learned to explain this work to people who do not live in it.
 
-### Homelab Work
-My homelab includes a Raspberry Pi Kubernetes cluster, Gitea, GitHub Actions runners, Portainer, and multiple ICS test rigs (my spouse doesn't love all these gadgets laying about). Many of the repositories here originate directly from these experiments.
+## What I would do first as a technology leader
 
-## Technical Skills
+Identity first: one sign-in, two-step sign-in that cannot be phished, access that ends the day someone leaves. Data you can trust: an owner for every record type, keep less, make the lifesaving numbers reliable enough to publish. Fewer vendors, priced honestly. Security that speeds the mission up instead of slowing intake, transport and adoption. Each of these I have done somewhere already; the long version is on the site.
 
-**Cloud and Infrastructure**: AWS, Azure, Kubernetes, Helm, Docker
+## Things here worth a look
 
-**Automation and IaC**: Terraform, Ansible, GitOps, GitHub Actions
+- [security-pipelines](https://github.com/binbashburns/security-pipelines): reusable GitHub Actions workflows for secret scanning, code scanning, software bills of materials, link checking and dynamic testing, pinned and least-privilege. Every repository I run calls them.
+- [security-stack-modeler](https://github.com/binbashburns/security-stack-modeler): pick one tool per capability and see the yearly cost and the control coverage, with a free-and-open-source scenario to compare against commercial ones. Live at [devsecops.binbashburns.com](https://devsecops.binbashburns.com).
+- [ai-security](https://github.com/binbashburns/ai-security): AI security frameworks crosswalked against each other, with per-vendor hardening settings. Live at [ai.binbashburns.com](https://ai.binbashburns.com).
+- [soldiersave.com](https://github.com/binbashburns/soldiersave.com): a searchable list of benefits and discounts for service members, veterans and families, maintained through GitHub.
+- [asm3](https://github.com/binbashburns/asm3): my fork of Animal Shelter Manager, where the medication-scheduling work was done.
 
-**Security and Networking**: Nmap, Wireshark, tcpdump, iptables, nftables, Nessus, Security Onion
+Suggested pins: security-pipelines, security-stack-modeler, ai-security, asm3, soldiersave.com, badgebox-resume.
 
-**ICS/OT**:: Modbus/TCP, PLC programming (Arduino Opta, Click PLC), ICS network analysis
+## Reach me
 
-**Programming**: C#, Python, Bash, PowerShell, HCL, YAML, JSON
-
-## Career Snapshot
-
-### PenChecks Trust - DevSecOps Engineer  
-Lead IAM Identity Center modernization, embed security tooling in CI/CD, harden GitOps workflows, and support AWS-native security guardrails while working directly with the CISO on incident response and security improvements.
-
-### Defense Unicorns - DevSecOps Engineer  
-Develop Helm charts, GitHub Actions pipelines, Kubernetes network policies, and observability tooling while supporting secure deployments across air‑gapped environments.
-
-### Kentucky Army National Guard - Cyber Warrant Officer  
-Conduct network defense, ICS/OT analysis, lab development, mentoring and supporting cyber operations for critical infrastructure scenarios.
-
-### Coalfire Systems - Cloud Engineer  
-Help organizations prepare for FedRAMP and cloud compliance through architecture design, documentation, scanning, and security engineering.
-
-## Current Focus
-
-- Practical DevSecOps patterns for cloud-native systems
-- Mentoring and knowledge-sharing through hands-on, show-and-tell learning
-- Building safer guardrails into CI/CD
-- Developing small, maintainable C# tools that solve real problems
-- Exploring where I can contribute to open source beyond my own repositories
-
-## Volunteer and Community Work
-- **Pet Cancer Foundation**: Information security and data governance support for a nonprofit focused on animal welfare.
-- **CodeYou – Intro to Cyber**: Mentor for the introductory cybersecurity cohort, supporting hands-on learning and career development.
-
-## Projects
-
-### SoldierSave
-
-[![Live site](https://img.shields.io/badge/site-soldiersave.com-blue)](https://soldiersave.com/) [![GitHub](https://img.shields.io/badge/code-binbashburns%2Fsoldiersave.com-orange)](https://github.com/binbashburns/soldiersave.com)
-
-- Blazor WebAssembly site hosted via GitHub Pages, backed by a structured `benefits.json` dataset.
-- Provides searchable, tag-filtered benefits, discounts, and resources for service members, veterans, and families.
-- Community contributions flow through GitHub Issues and auto-generated pull requests, plus scheduled link checking via GitHub Actions.
-
-### BadgeBox
-
-[![Live site](https://img.shields.io/badge/site-badge--box.com-blue)](https://badge-box.com) [![GitHub](https://img.shields.io/badge/code-binbashburns%2Fbadgebox--resume-orange)](https://github.com/binbashburns/badgebox-resume)
-
-- Resume template that pulls live **Credly** certifications via a .NET 9 minimal API and CLI, then renders them into a Jekyll site.
-- Ships with a GitHub Actions workflow that builds the API/CLI, generates normalized badge JSON, and publishes the site to GitHub Pages or a custom domain.
-- Designed to be forked and customized so others can quickly stand up their own resume + badges site.
-
-## Stats and Activity
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=binbashburns&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-</div>
-
----
-
-If you enjoy anything here, feel free to explore the repositories. Many are active experiments from my homelab, C# coursework, and ICS/OT projects.
+[hello@binbashburns.com](mailto:hello@binbashburns.com). If you run or work at a shelter or rescue and want help with technology, it is free. If you lead technology at an animal-welfare organization, I would like to hear from you.

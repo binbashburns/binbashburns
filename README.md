@@ -1,19 +1,26 @@
 # Matt Burns
 
-I want to lead technology for an organization that saves animals. I have spent fifteen years securing systems for government and healthcare organizations: governance and audits, cloud infrastructure, the pipelines that ship software, identity, and the incident calls nobody wants. I know how to do tech, but what I care most about is animals, and since 2025 I have been moving my working life toward the shelters, rescues and sanctuaries that save them.
+I know technology. I love animals.
 
-**[binbashburns.com](https://binbashburns.com)** is where that work lives: a free information hub for the people who handle technology at shelters and rescues. Plain-language steps, guides written as walkthroughs, a map of what already exists with free options first, and a standing offer of a second pair of eyes. No sales call, no vendor behind it.
+I build and run technology for a living, and I want to spend the rest of my career using it to help animals. I have worked in IT since 2018: help desk, security analyst, cloud engineer, DevOps, and now senior cybersecurity engineer. The work has covered cloud architecture on AWS, Azure and Google Cloud, secure software delivery, governance and compliance, and AI security. I also serve part time in the Army National Guard, in cyber work that protects critical infrastructure.
 
-## In the sector so far
+## Foster Security
 
-- **2025-06 to 2026-01.** Volunteer information security and data governance for a small nonprofit working on cancer care for pets: a lightweight governance framework, first policies, vendor checks, and rules for keeping less data.
-- **2025-12 to 2026-03.** Contributed per-dose medication scheduling and a time-of-day-aware Medical Book to [Animal Shelter Manager](https://github.com/sheltermanager/asm3), the open-source system many shelters run: [pull request 1970](https://github.com/sheltermanager/asm3/pull/1970), merged 2026-03-02.
-- **2026-10 to 2026-12.** Finding Success in Animal Services, the Best Friends and Southern Utah University course. The Dog and Cat Lifesaving Fundamentals courses follow in 2027.
-- I mentor career-changers in security at a Louisville nonprofit, which is where I learned to explain this work to people who do not live in it.
+**[fostersecurity.org](https://fostersecurity.org)** is the name I do this work under: free technology and security help for shelters and rescues. No sales call, no vendor behind it.
 
-## What I would do first as a technology leader
+- [Start here](https://fostersecurity.org/start-here/): the eleven things I would do at any shelter, in order.
+- [How I can help](https://fostersecurity.org/how-i-can-help/): three hands-on reviews (your office network, your email and cloud accounts, your website and any software built for you). Each one ends with a short list of what to fix first.
+- [Guides](https://fostersecurity.org/guides/), [Choose](https://fostersecurity.org/choose/) and [Resources](https://fostersecurity.org/resources/): walkthroughs, short questionnaires that end in a recommendation, and free or nonprofit-priced software.
 
-Identity first: one sign-in, two-step sign-in that cannot be phished, access that ends the day someone leaves. Data you can trust: an owner for every record type, keep less, make the lifesaving numbers reliable enough to publish. Fewer vendors, priced honestly. Security that speeds the mission up instead of slowing intake, transport and adoption. Each of these I have done somewhere already; the long version is on the site.
+## In animal welfare so far
+
+- **2025-06 to 2026-01.** Volunteer information security and data governance lead at a pet cancer nonprofit: a basic governance and security framework, first-draft policies, vendor due diligence, and data-minimization and retention standards.
+- **2025-12 to 2026-03.** Wrote per-dose medication scheduling and a time-of-day-aware Medical Book for [Animal Shelter Manager](https://github.com/sheltermanager/asm3), the open-source shelter system: [pull request 1970](https://github.com/sheltermanager/asm3/pull/1970), merged 2026-03-02.
+- **2026-09.** A week at the [Best Friends Sanctuary](https://bestfriends.org/sanctuary) in Kanab, Utah, to see up close how a well-run animal-focused nonprofit operates.
+- **2026-10 to 2026-12.** [Finding Success in Animal Services](https://bestfriends.org/learn), the Best Friends and Southern Utah University course. Dog and Cat Lifesaving Fundamentals come next, in 2027.
+- **2025-08 to 2026.** Mentored the Intro to Cyber cohorts at [Code:You](https://www.kentuckianaworks.org/code-you), a Louisville program that trained adults for technology jobs.
+
+I am still learning the shelter side, and I would rather learn it from you than guess.
 
 ## Things here worth a look
 
@@ -23,8 +30,6 @@ Identity first: one sign-in, two-step sign-in that cannot be phished, access tha
 - [soldiersave.com](https://github.com/binbashburns/soldiersave.com): a searchable list of benefits and discounts for service members, veterans and families, maintained through GitHub.
 - [asm3](https://github.com/binbashburns/asm3): my fork of Animal Shelter Manager, where the medication-scheduling work was done.
 
-Suggested pins: security-pipelines, security-stack-modeler, ai-security, asm3, soldiersave.com, badgebox-resume.
-
 ## Reach me
 
-[hello@binbashburns.com](mailto:hello@binbashburns.com). If you run or work at a shelter or rescue and want help with technology, it is free. If you lead technology at an animal-welfare organization, I would like to hear from you.
+[hello@fostersecurity.org](mailto:hello@fostersecurity.org). If you run or work at a shelter or rescue and want help with technology, it is free.
